@@ -1,0 +1,18 @@
+Data Dictionary - Getting and Cleaning Data Project
+
+SubID: 
+	ID of the test subject. There are a total of 30 subjects.
+
+ACT: 
+	Activity being performed by the subject. These are "Walking", "Walking Upstairs", "Walking Downstairs", "Sitting", "Standing", and "Laying". A total of six different activities.
+
+BodyAcc:
+	Body acceleration. Recorded in X, Y, Z dimensions as well as mean and standard deviation.
+GravityAcc:
+	Acceleration due to gravity. Recorded in X, Y, Z dimensions as well as mean and standard deviation.
+BodyGyro:
+	Angular Velocity. Recorded in X, Y, Z dimensions as well as mean and standard deviation.
+ 
+
+
+
